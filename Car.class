@@ -1,0 +1,9 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+package com.deepak;
+
+abstract class car {
+   car() {
+   }
+
+   abstract void musicPlayer();
+}
